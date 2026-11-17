@@ -1,0 +1,22 @@
+# Eclipse workspace
+.metadata/
+.recommenders/
+.settings/
+.classpath
+.project
+
+# Build files
+**/target/
+**/build/
+bin/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
